@@ -18,7 +18,7 @@ function toggleLight() {
 	var mode = localStorage.getItem("mode");
 	if (mode == "light") {
 		document.documentElement.setAttribute("data-theme", "dark");
-		document.getElementById('light-toggle').innerHTML = "🌗 Light";
+		document.getElementById('light-toggle').innerHTML = "🌗Light";
 		document.getElementById('light-toggle').style.color = "#333";
     	localStorage.setItem("mode", "dark");
 		setHighlightTheme("dark");
