@@ -1,9 +1,16 @@
-<!-- todo: check how to prettier it easier from md file exported from heptabase -->
 ---
 tags:
+  - threads
   - 我的第二人生，成為創作者之路
+Status:
+  - Finished
 ---
-# Day 0. 我的第二人生，成為創作者之路 - 號召我的金三角夥伴(Mentor\\Mentee\\Partner!)
+# # Day 0. 我的第二人生，成為創作者之路 - 號召我的金三角夥伴(Mentor\\Mentee\\Partner!)
+
+**[nana.fisante](https://www.threads.net/@nana.fisante)**
+
+[我的第二人生，成為創作者之路](https://www.threads.net/search?q=%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F%EF%BC%8C%E6%88%90%E7%82%BA%E5%89%B5%E4%BD%9C%E8%80%85%E4%B9%8B%E8%B7%AF&serp_type=tags&tag_id=18330705493081175)
+
 
 第1天： 2024/10/21 開始日更，我說我會一直寫下去
 
