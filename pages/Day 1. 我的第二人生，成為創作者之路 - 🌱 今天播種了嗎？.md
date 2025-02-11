@@ -1,10 +1,3 @@
----
-tags:
-  - threads
-  - 我的第二人生，成為創作者之路
-Status:
-  - Finished
----
 # 🌱 今天播種了嗎？
 
 **[nana.fisante](https://www.threads.net/@nana.fisante)**

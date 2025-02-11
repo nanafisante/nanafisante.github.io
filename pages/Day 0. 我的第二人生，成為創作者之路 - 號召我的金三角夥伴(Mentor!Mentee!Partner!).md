@@ -1,11 +1,4 @@
----
-tags:
-  - threads
-  - 我的第二人生，成為創作者之路
-Status:
-  - Finished
----
-# # Day 0. 我的第二人生，成為創作者之路 - 號召我的金三角夥伴(Mentor\\Mentee\\Partner!)
+# Day 0. 我的第二人生，成為創作者之路 - 號召我的金三角夥伴(Mentor!Mentee!Partner!)
 
 **[nana.fisante](https://www.threads.net/@nana.fisante)**
 
